@@ -206,7 +206,7 @@ def user_stats(df):
     except KeyError :
          # Handle missing columns
         pass
-    except ValueError:
+    except ValueError as e:
         # Handle cases where there is no valid data for calculations
         print(f"Value error: {e}. The data may contain invalid values.")
 

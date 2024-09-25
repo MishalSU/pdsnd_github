@@ -15,6 +15,19 @@ This project analyzes bike share data from three major cities in the United Stat
 - **new_york_city.csv**: Dataset for New York City bike share system.
 - **washington.csv**: Dataset for Washington bike share system.
 
+### Installation 
+
+1. **Install Python 3 and Anaconda**:
+   - Install [Anaconda](https://www.anaconda.com/products/individual) to access Python, NumPy, and pandas.
+
+2. **Install Required Libraries**:
+   - Open your terminal and install required packages if necessary:
+     ```bash
+     pip install numpy pandas
+     ```
+
+
+
 ### Credits
 - **Pandas Documentation**: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
 - **NumPy Documentation**: [https://numpy.org/doc/](https://numpy.org/doc/)

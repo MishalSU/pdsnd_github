@@ -29,7 +29,7 @@ This project analyzes bike share data from three major cities in the United Stat
 3. **Clone or Download the Repository**:
    - Clone the project repository or download it from your source (e.g., GitHub):
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/MishalSU/pdsnd_github
      ```
    - Ensure the dataset CSV files (`chicago.csv`, `new_york_city.csv`, `washington.csv`) are in the project folder.
 
